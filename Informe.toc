@@ -1,0 +1,38 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Resumen ejecutivo}{1}{section*.2}%
+\contentsline {section}{Alcance y organización de entregables}{1}{section*.3}%
+\contentsline {section}{Especificación de requerimientos (Norma 830)}{1}{section*.4}%
+\contentsline {subsection}{Propósito y perspectiva}{1}{section*.5}%
+\contentsline {subsection}{Actores}{2}{section*.6}%
+\contentsline {subsection}{Requerimientos funcionales}{2}{section*.7}%
+\contentsline {subsection}{Requerimientos no funcionales}{2}{section*.8}%
+\contentsline {subsection}{Reglas de negocio y restricciones}{3}{section*.9}%
+\contentsline {subsection}{Trazabilidad de requerimientos}{3}{section*.10}%
+\contentsline {section}{Análisis de los algoritmos de inteligencia artificial}{4}{section*.11}%
+\contentsline {subsection}{MediumAI}{4}{section*.12}%
+\contentsline {subsection}{UnbeatableAI}{4}{section*.13}%
+\contentsline {subsection}{MinMax}{4}{section*.14}%
+\contentsline {subsection}{Comparación técnica}{5}{section*.15}%
+\contentsline {section}{Arquitectura y diseño}{5}{section*.16}%
+\contentsline {subsection}{Arquitectura lógica}{5}{section*.17}%
+\contentsline {subsection}{Diagrama de casos de uso}{5}{section*.18}%
+\contentsline {subsection}{Diagrama de secuencia}{6}{section*.20}%
+\contentsline {subsection}{Diagrama de clases}{6}{section*.22}%
+\contentsline {section}{Aplicación de SRUM+XP}{6}{section*.24}%
+\contentsline {subsection}{Diseño}{6}{section*.25}%
+\contentsline {subsection}{Desarrollo}{7}{section*.26}%
+\contentsline {subsection}{Pruebas}{7}{section*.27}%
+\contentsline {subsection}{Matriz de resultados de pruebas}{7}{section*.28}%
+\contentsline {section}{Manual de instalación y operación}{8}{section*.29}%
+\contentsline {subsection}{Preparación del entorno}{8}{section*.30}%
+\contentsline {subsection}{Construcción}{8}{section*.31}%
+\contentsline {subsection}{Operación del juego}{8}{section*.32}%
+\contentsline {section}{Gestión de configuración y mantenibilidad}{9}{section*.33}%
+\contentsline {subsection}{Convenciones de configuración}{9}{section*.34}%
+\contentsline {subsection}{Mantenibilidad}{9}{section*.35}%
+\contentsline {section}{Análisis de resultados y métricas}{9}{section*.36}%
+\contentsline {subsection}{Métricas de tamaño}{9}{section*.37}%
+\contentsline {subsection}{Métricas de calidad y complejidad}{10}{section*.38}%
+\contentsline {subsection}{Resultados de verificación}{10}{section*.39}%
+\contentsline {section}{Riesgos, limitaciones y mejoras futuras}{10}{section*.40}%
+\contentsline {section}{Conclusiones}{11}{section*.41}%

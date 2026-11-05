@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- WinForms default control background approximation -->
+    <color name="form_background">#F0F0F0</color>
+
+    <!-- Material theme colors; the original Form had no custom colors. -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

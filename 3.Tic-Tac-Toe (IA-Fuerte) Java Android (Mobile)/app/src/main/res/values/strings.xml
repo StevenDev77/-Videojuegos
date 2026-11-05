@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+
+    <!-- Original WinForms labels -->
+    <string name="btn_new">Nuevo</string>
+    <string name="btn_exit">Salir</string>
+    <string name="lbl_information">Horas de diversión</string>
+    <string name="pic_character_description">Personaje animado</string>
+
+    <!-- Original MenuStrip labels -->
+    <string name="mnu_file">Archivo</string>
+    <string name="mnu_file_new">Nuevo</string>
+    <string name="mnu_file_exit">Salir</string>
+    <string name="mnu_help">Ayuda</string>
+    <string name="mnu_help_about">Acerca de...</string>
+    <string name="mnu_help_content">Contenido</string>
+    <string name="mnu_view">Ver</string>
+    <string name="mnu_view_scores">Puntajes</string>
+    <string name="mnu_view_reset_scores">Resetear puntajes</string>
+</resources>

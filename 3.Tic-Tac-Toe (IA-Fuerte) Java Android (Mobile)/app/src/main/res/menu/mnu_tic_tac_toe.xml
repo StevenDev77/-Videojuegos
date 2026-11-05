@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Android equivalent of the original MenuStrip.
+
+    Original items:
+        Archivo -> Nuevo, (separator), Salir
+        Ayuda   -> Acerca de..., (separator), Contenido
+        Ver     -> Puntajes, (separator), Resetear puntajes
+
+    In the C# project none of these menu items had Click handlers. They are
+    reproduced here without actions so that no functionality is invented.
+    Android menu XML has no separator element, so the original separators are
+    represented only by the natural grouping of the items.
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnu_file"
+        android:title="@string/mnu_file">
+        <menu>
+            <item
+                android:id="@+id/mnu_file_new"
+                android:title="@string/mnu_file_new" />
+            <item
+                android:id="@+id/mnu_file_exit"
+                android:title="@string/mnu_file_exit" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/mnu_help"
+        android:title="@string/mnu_help">
+        <menu>
+            <item
+                android:id="@+id/mnu_help_about"
+                android:title="@string/mnu_help_about" />
+            <item
+                android:id="@+id/mnu_help_content"
+                android:title="@string/mnu_help_content" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/mnu_view"
+        android:title="@string/mnu_view">
+        <menu>
+            <item
+                android:id="@+id/mnu_view_scores"
+                android:title="@string/mnu_view_scores" />
+            <item
+                android:id="@+id/mnu_view_reset_scores"
+                android:title="@string/mnu_view_reset_scores" />
+        </menu>
+    </item>
+</menu>
